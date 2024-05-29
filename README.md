@@ -7,6 +7,6 @@ This is a resouce list for underwater image enhancement
 
 ## Methods
 
-### Learning-based methods
-
-###
+| Venue | Model                     | Paper                                                        | Link                                                         | Note                 |
+| ---- | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------- |
+| 2017 | ArXiv                   | MSR-net:Low-light Image Enhancement Using Deep Convolutional Network | [pdf](https://arxiv.org/pdf/1711.02488v1.pdf)                | MSR-net              |
