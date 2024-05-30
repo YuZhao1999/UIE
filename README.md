@@ -1,10 +1,6 @@
 # Awesome Underwater Image Enhancement
 This is a resouce list for underwater image enhancement
 
-## Introduction
-
-## Methods
-
 ### Network Structure
 
 | Model | Paper | Venue | Link |
